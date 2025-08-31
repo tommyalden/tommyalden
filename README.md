@@ -1,16 +1,25 @@
-## Hi there 👋
+# hey, i'm tommy 👋
 
-<!--
-**tommyalden/tommyalden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+first-year comp sci at bristol. i spend my time building little projects, breaking them, then (attempting) to fix them.  
 
-Here are some ideas to get you started:
+currently interested in:  
+- full-stack web (react/next, astro, node)  
+- kotlin & the jvm world  
+- linux + systems stuff  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## projects
+- [**portfolio**](https://github.com/tommyalden/portfolio) — my personal site (astro + tailwind + shadcn)  
+- other stuff thats coming but not quite ready yet.
+
+---
+
+## contact
+- site → [tommyalden.dev](https://tommyalden.dev)  
+- email → [tommy@tommyalden.dev](mailto:tommy@tommyalden.dev)  
+- linkedin → [in/tommyalden](https://linkedin.com/in/tommyalden)  
+
+---
+
+<sub>this profile readme isn’t my portfolio. go look at my website for that.</sub>
