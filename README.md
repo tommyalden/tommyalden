@@ -18,7 +18,7 @@ currently interested in:
 ## contact
 - site → [tommyalden.dev](https://tommyalden.dev)  
 - email → [tommy@tommyalden.dev](mailto:tommy@tommyalden.dev)  
-- linkedin → [tommyalden](https://linkedin.com/in/tommyalden)  
+- linkedin → [tommyalden](https://linkedin.com/in/tommy-alden)
 
 ---
 
