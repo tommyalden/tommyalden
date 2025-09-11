@@ -1,6 +1,6 @@
 # hey, i'm tommy 👋
 
-first-year comp sci at bristol. i spend my time building little projects, breaking them, then (attempting) to fix them.  
+first-year comp sci student at uni of bristol. i spend my time building little projects, breaking them, then (attempting) to fix them.  
 
 currently interested in:  
 - full-stack web (react/next, astro, node)  
